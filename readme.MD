@@ -103,7 +103,7 @@ Launch the interactive "What-If" simulation dashboard:
 python main.py
 
 ```
-## Future Roadmap & Scalability
+## Future Plans & Scalability
 The current iteration of the NeuroM Predictor serves as a foundational proof-of-concept for accelerated neuromorphic design. Future plans include:
 
 Multi-Compartment Neuron Support: Extending the PINN framework to simulate dendritic trees and complex temporal dynamics beyond simple LIF models.
