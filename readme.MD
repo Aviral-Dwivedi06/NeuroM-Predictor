@@ -1,4 +1,4 @@
-# (NeuroM Predictor)
+# NeuroM Predictor
 ## Neuromorphic Framework Predictor
 
 This project was designed for the Micron Mimory Competition by Team Morpheus. 
